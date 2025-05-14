@@ -1,7 +1,22 @@
 @media screen and (min-width: 1401px) {
   .container {
-    max-width: 1800px;
+    max-width: 1300px;
     margin: 0 auto;
+  }
+
+  #skills-list {
+    max-width: 1300px;
+    margin: 0 auto;
+  }
+  
+  .experience-details-container {
+    overflow-wrap: break-word;
+    max-width: 1300px;
+    margin: 0 auto;
+  }
+
+  .details-container {
+    max-width: 450px;
   }
 }
 
